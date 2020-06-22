@@ -564,6 +564,7 @@ a {
   margin-left: 6px;
   display: flex;
   padding-left: 20px;
+  border-radius: 20px;
   padding-right: 40px;
 }
 
